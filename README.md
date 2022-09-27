@@ -1,2 +1,1 @@
-# Tindog
-tindog challenge
+TinDog Starting Files
